@@ -1,5 +1,11 @@
 # JavaScript-Array-Functions
-Hello and welcome to this tutorial on commonly used JavaScript Array methods! We will be discussing some of the most useful methods for working with arrays in JavaScript.
+Hello and welcome to this tutorial on commonly used JavaScript Array methods! We will be discussing some of the most useful methods for working with arrays in JavaScript. The following array methods will be listed here:
+  - [push](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/push)
+  - [pop](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/pop)
+  - [shift](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/shift)
+  - [unshift](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/unshift)
+  - [slice](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/slice)
+  - [splice](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/splice)
 
 First, let's start with the `.push()` method. This method allows you to add one or more elements to the end of an array. Here's an example:
 
