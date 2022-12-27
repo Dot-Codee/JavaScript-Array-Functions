@@ -3,10 +3,11 @@ Hello and welcome to this tutorial on commonly used JavaScript Array methods! We
 
 First, let's start with the `.push()` method. This method allows you to add one or more elements to the end of an array. Here's an example:
 
-Copy code
+```
 let numbers = [1, 2, 3];
 numbers.push(4, 5, 6);
 console.log(numbers); // Output: [1, 2, 3, 4, 5, 6]
+```
 Next, we have the `.pop()` method, which removes the last element from an array and returns it. For example:
 
 ```
